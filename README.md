@@ -11,6 +11,9 @@
 </p>
 <br/>
 
+## 動作イメージ
+https://github.com/user-attachments/assets/d3a155da-3ebb-41cc-a924-892b517a26bb
+
 # :globe_with_meridians:概要
 
 ## 使用言語
@@ -33,9 +36,6 @@
  - PC側でcsv形式のパッチリストを作成し、それをI<sup>2</sup>C通信で受信して記録する機能を実装する。
 
 <br/>
-
-## 動作イメージ
-https://github.com/user-attachments/assets/d3a155da-3ebb-41cc-a924-892b517a26bb
 
 　本機のプリセットデータ構造は以下の通り
 | バンク | パッチ | 表/裏 | Program Change | Control Change No | Control Change Val |
