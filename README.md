@@ -34,6 +34,9 @@
 
 <br/>
 
+## 動作イメージ
+https://github.com/user-attachments/assets/d3a155da-3ebb-41cc-a924-892b517a26bb
+
 　本機のプリセットデータ構造は以下の通り
 | バンク | パッチ | 表/裏 | Program Change | Control Change No | Control Change Val |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -52,9 +55,6 @@
 <br/><br/>
 
 # :page_with_curl:マニュアル
-
-## 動作イメージ
-https://github.com/user-attachments/assets/d3a155da-3ebb-41cc-a924-892b517a26bb
 
 ## 確認済み動作環境
 - Arduino Mega2560 (USB通信によるI<sup>2</sup>通信の仕様や入出力端子の本数の違いにより、Mega2560以外での動作は非推奨)
