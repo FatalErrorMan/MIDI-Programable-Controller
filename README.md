@@ -12,7 +12,7 @@
 <br/>
 
 ## 動作イメージ（音色切り替えデモのため、音声があります）
-https://github.com/user-attachments/assets/422c476d-f45b-4d0b-9493-b5e7fcdd5f63
+https://github.com/user-attachments/assets/a233c547-a808-49a0-89b6-20aefc984456
 
 # :globe_with_meridians:概要
 
